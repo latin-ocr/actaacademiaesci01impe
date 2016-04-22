@@ -1,0 +1,62 @@
+»2033 >29( &3³2⁴-
+
+vbi fi loco x valor modo inuentus substituatur, pro x re·
+
+periemus hanc fractionem continuam:
+
+--C
+xznuu—3342 nuc
+nun—384² nu uC
+nun—sB-f-znuc—
+nun—3B-4-rnuc
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+etc·
+
+quae forma mox verum ipsius x valorem declarabit.
+
+ξ. 11. Quoniam Illustris Auctor suam solutionem eius*
+modi principio superstruxit, quod proprietate cuiuspiam
+maximi effet praeditum, nunc haud difficile erit eiusmodi
+formulam analyticam exhibere.. quae maximo aequalis po-
+fita verum valorem ipsius x effet ostensura. Vtamur hunc ,
+infinem forma primum inuenta ⁷
+
+rr(.r-a)÷rr(x—b)-÷-rr(x-c)—÷-etc.„-
+-(x—a)‘ —(x--b)³ —(x-c)³ —etc.*‘
+quae spectetur tanquam differentiale cuiuspiam formulae,
+quae ad maximum reduci debeat3 ipsa igitur haec formu-
+la prodibit, fi haec expreffio in dx dusta integretur. Mul-
+tiplicemus autem per 4dx et integratio dabit
+2rr(x—a)²-{-2rr(x-b)²—}-2rr(x—c)²÷etc.
+— (x—a)*—(x—b)⁴ —·(x-c)⁴ —etc.÷c'
+Haec autem forma, fi pro constante sumamus—nr⁴‚ exi-
+
+stente n numero obseruationum, mutatis fignis manifesto
+hinc nascitur ista formula:
+
+(rr—(x—a)²)²—÷-(rr—(x-—b)¹)²÷<rr—(x—c)²)²÷etc.‘
+ς. 12. Loco ergo formulae, quam Ill.Bern0ulli maxi'-
+mo aequari debere censuit nunc assecuti sumus aliam for-
+mulam ad quaestionis naturam maxime accommodatam,
+quae ad maximum reducta, verum praebet valorem ipfius
+x, quandoquidem ista foimula obtinetur ‚ fi quadrata om·
+nium graduum bonitatis in ’vnam summam colligantur.
+
+D 3 ξ. 13.
+

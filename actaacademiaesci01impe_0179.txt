@@ -1,0 +1,38 @@
+»ἐξ )61( &92⁴³
+
+METHODIS QVAE Rssflcssssm POSSVNT,
+AD INTEGRANDAS AEQVATIONES
+
+DIF F ERENTIALES LINEARES ,
+
+DIFFERENTIALIA 13(ssva VARIABILIVM
+
+INGREDIVNTVR.
+
+Autstore
+L Ε ΧΕ L L.
+
+ξ. 1.
+
+Per aequationes differentiales lineares, eae intelligi solent
+in quibus nec quadrata, nec altiores potestates differentia-
+
+lium reperiuntur, excepto >tamen differentiam, quod *pro his
+aequationibus ponitur constans ‚ quodque differentiale quafi
+mensuram constituit, ad quam reliquorum valores exquiri de-
+bent. Huius modi igitur aequationes differentiales sub-forma
+sequenti repraesentari pofl‘unt:
+ddx÷adx÷f3dy-4-‘ydz—4—3x-4-ey-3aeZzT-cs
+ddy÷ dclx-1( ss‘dy÷7¹dz Νῶε-με’] ÷5¹zzo
+ddz÷ afldx-x—ss‘1dy-2-v‘1dz 43¹‘x4211y-z—gssz10,
+vbi quidem breuitatis gratia differentiale constans, eiusque po-
+testates co potius omisimus, quod illas in ipfis coefficientibus
+constantibus α, β, v etc. iam contineri ‚ supponere liceat.
+Fient vcro hae aequationes aliquanto generffiores, fi expres-
+fiones nostrae modo allatae ,
+ddx÷adx4135y÷vdz÷c3x—l—ey—Js-Zz etc.
+non aequentur nihilo, sed funetionibus quibusdam eius quanti-
+
+tatis, cuius differentiale ponitur constans, et Methodi quidem,
+H 3 quae
+

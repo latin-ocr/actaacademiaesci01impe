@@ -1,0 +1,44 @@
+022³.ss )124( &5³⁴-
+
+§. 41. Quoniam in his formulis nonnullae quantitates
+arbitrio nostro penitus sunt relictae , hae solutiones iam satis
+late patent , ct innumerabiles casns speciales in se complectun-
+tur. Verum multo adeo latius haec solutio extendi potest dum
+binae pluresue quaeuis solutiones inuentae inter se coniungi
+possunt. Scilicet: fi inuenti fuerint primo hi valor-es : sz
+cty:N ; deinde vero ,πῖ-Μ’ et y :N‘ 3 praeterea etiffin
+x z: M¹¹ ety :Nflete , tum ex his solutionibus ista multo ge-
+neralior formari poterit :
+
+‚vc-:QtM-4-ffiMt-i-(stu-Js-QMmetc, et
+yleN -i—QN1-i-<8N‘1-i—‘23Nmet0
+
+quae solutio vtique tam generalis uidetur, vt omnes solutIOnes
+possibiles in se complectatur.
+
+Methodus generalis resoluendi aequationes
+“ differentia-les
+
+dxzpdu—l-rdtcofivu et dyzrdu—pdtcofiu.
+
+ς. 42. Quaeratur eiusmodi combinatio harum duarum
+formularum , quae resolutionem in duos faetores admittat.
+Hunc iu finem prior ducatur in α , posterior vero in β et ag-
+gregatum ambarum erit
+
+adx÷f3dyzp(adu-fidtc‹›s.u)—}-r(f3du-l-ccdtcof.u)
+cuius faetores differentiales ‚ vt ad similitudinem perducantur ,
+ita disponantur r
+
+adx÷f3dyzotp=(du—- {dccosad -ῑ-βνζᾱιι-ὶ-Ξ- dtcos. u).
+
+lam fiatg-:*}‚ siue* ota-ff-sssszo fiue ezod—1 ‚ et
+ista combinatio dabit ’
+dx÷dyV—1:(p÷rV-1)(du-V—1dtcos‚u)
+
+quae forma, vt faetor differentialis integrabilis. reddatur, ita
+repraesentetur
+
+α’ἔ-ι-(ίμΥ-ιΖςοΕ α’(Ρ-ἦ-νν- 1)·(cgj÷—V- 1 dt).
+§.43-
+

@@ -1,0 +1,38 @@
+»2233 >84( ἓὶεέοὲ
+
+Aequatio biquadratica quam hic pro n2inuenimus, insignem ha·
+bet affinitatem, cum aequatione differentiali pro x §2 3. inuenta;
+scilicet fi loco n‘, n³‚ n², n respeetiue scribantur d‘x, ²—d³ x,
+-4-11' dx, —dx, ex aequatione pro n ‚ orietur aequatio diffe-
+rentialis quarti gradus pro x 3. et quum inuestigatio multipli-
+catorum pro integranda aequatione differentiali §. 3. ex reso-
+lutione huius aequationis biquadraticae dependeat ‚ intelligitur
+iisdem multiplicatoribus quibus aequatio differentio - differen-
+tialis iam proposita redditur integrabilis , etiam aequationem
+differentialem sola differentialia ipfius x inuoluentem inte-
+grabilem reddi. Methodus igitur iam proposita illam priorem
+facilitate vix superare videtur , nam Vtroque in casu ‚ totum
+negotium integrationis , ad inueniendam illam aequationem
+biquadraticam reducitur. Tum vero et posterior Methodus
+illo incommodo laborare xidctur, quod minus patescat, quo·
+modo integiatioi fit perficiendaillis in cafibus ‚ vbi aequatio
+ista biquadratica plures habuerit radices aequales. Pro binis
+quidem radicibus aequalibus res est manifesta. Subsidio enim
+trium aequationum §. 21. propositarum, eliminando dx et dy,
+inueniri potest aequatio inter x,y et functiones cognitas ipsius
+u, tum vcro eliminando x et y , habebitur aequatio differen-
+tialia dx et dy implicans , quae quum sponte fit integrabilis ‚
+integratione peraeta , nouam h1bebimus aequationem, quam
+x ety ingrediuntur ‚ ex qua fi cum prius inuenta conferatur ,
+siue x, seu y elici poterit.
+
+§- 24. At vero fi aequatio ista biquadratica , vel tres ha-
+buerit radices aequales , vel bina radicum aequalium paria, ita
+vt aequationum ᾗ. 2. propositarum ‚ binas tantum habeamus ‚
+inuestigatio ipsarum a ety ita perfici debet ‚ vt noua institua-
+tur integratio harum aequationum. Suppvnamus nimirum
+combinatione harum aequationum faeta, oriri hanc aequatio-
+nem integralem : e'‘¹⁴ (x—faysz, *defignante V summam quan-
+
+matum
+

@@ -1,0 +1,38 @@
+⁰2³⁴.ss .) 66 ( &303⁰-
+
+solutio aequationis differentialis quarti gradus fine dubio maio·
+rem pariat difficultatem ‚ quam resolutio aequatiouis secundi
+gradus. Verum heic perpendendum est ‚ bjnas proponi aequa-
+tiones differentiales secundi gradus, per quarum integrationem
+quatuor constantes arbitrariae introducuntur ‚ totidem nimi-
+rum ac per integrationem vnius aequationis differantialis quar-
+ti gradus. At integrata vna earum , vti ea quam sola differen-
+tialia ipfius x ingrediuntur ‚ alteram pro y allatam, seon-snm in·
+tegrare‚ minime necessarium est 3 quippe Quumy ‚ vti modo
+ostendimus, per valores differentialium d³x‚ dcix, dx et ip-
+sam x , sponte exprimatur3 vnde inuentis constantibus arbi-
+
+trariis ‚ quae prox locum habent, nullae nouae constantes
+pro y introducuntur.
+
+§. 7. confideremus nunc has binas aequationes differen-
+nallfsbx-kaddx ÷ssddy -ff-‘ydx ÷3dy —i-ex -†-{y:o
+11. d³y-÷-,a¹ddx-†-f3¹ ιίιίχ-ι-γᾱκ-Δι-δᾶυ-ι-έκ-μζῃ--ο
+ex quibus vt elici queat aequatio, sola differentialia ipfiur x in·
+
+voluens ‚ differentietur vnaquaeque harum aequationum ter ,
+vt habeatur :
+
+111. d⁴x÷ad³x -ff-ssd'y ÷7ddx —f—dey ÷edx -1—4'dy z: ο
+1V. d⁴y÷oe¹(fx-{43¹d³y÷7¹ddx÷5‘ddy÷e¹dx—†—Z‚“dy:0
+V. d³x÷oed⁴x÷f3d⁴y÷fyd³x ÷3d³y ÷eddx÷cssddyzo
+VI. d⁵y ÷a¹d⁴x÷s3¹ffly÷7¹d¹ x ÷6¹d³y ÷2¹ddx÷g¹ddyzo
+Vll.cl⁶x÷ad⁵x÷f3d⁵y÷·yvd⁴x ÷5d⁴y ÷2d³x÷gd³y10
+V11Ld⁶y÷a¹d³x÷f3¹d⁵y ÷y¹d⁴x ÷AE¹d⁴y ÷e¹d³x÷g¹d²y:0.
+Iam vero ponatur effe ae'quatio , sola differentialia ipfius x in
+voluens, ista sequens:
+
+V11÷z¹vl÷zv÷u¹1v÷32111÷v111÷v110 ¹
+
+quare
+
