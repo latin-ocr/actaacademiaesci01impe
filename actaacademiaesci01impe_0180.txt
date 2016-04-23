@@ -1,0 +1,47 @@
+⁸32³.ss )62( &303⁰-
+
+quae pro integratione formularum propositarum valent, etiam
+ad illas generaliores applicari poss‘unt.
+
+ς. 2. Pro integrandis quidem aequationibus differentia-
+libus huius formae:
+
+ddx÷ax÷s3y÷vzzT
+
+ddy-i-a‘xA-ss’y-i-fy‘zzT'
+
+‘ddz÷a¹'x-—}-f3¹¹y-}—‘y¹'z:T‘¹.
+must. d'Alembert in egregio opere suae Dynamices, elegantem
+valde proposuit Methodum‚ de qua tamen mihi non liquet,
+quomodo adplicari potiit, ad aequationes differentiales, in qui-
+bus praeter d d x, ddy, d dz etiam differentialia simplicia dx,
+dy, dz reperiuntur3 multo minus eius vsus adhiberi posse vi-
+detur, fi aequationes differentiales superiorum ordinum pro-
+ponantur, quas, differentialia quarta, tertia etc. singularum
+variabih'um x, y, z ingrediuntur. Quum igitur resolutiones
+plurium Problematum Mechanicorum ex integratione huius-
+
+modi aequationum differentialium pendeant3 operae poetium
+
+duxi, Methodos‚ quae pro his integrationibus mihi se obtule-
+runt, heic proponere.
+
+§. 3. Vt igitur a simplicioribus ordiar, propositae smt
+binae hae aequationes differentiales:
+
+1. ddx÷adx÷ss3y÷eyx÷3yzo
+
+IL ddy-ls-ot‘ch—-z-ffffy—k‘y‘x-ff-fflyzo
+
+Quum itaque in his aequationibus differentialia ipsorum x et y
+fint permixta, in mentem venit, vt modum inuestigarem quo
+reperiri posset aequatio differentialis, quae ex differentis-nibus
+vel solius x, vel solius y, sit composita3 quod institutum sc-
+quenti ratione adgressus sum. Differentientur binae aequatio-
+nes propositae bis, ita vt habeantur hae aequationes differen-
+tiales:
+
+111. d³x÷addx÷f3ddy÷ydx÷3dyzo ·
+
+IV. d³y÷a¹ddx-†-s3¹ddy-÷-‘y¹dx÷&dyzo
+
